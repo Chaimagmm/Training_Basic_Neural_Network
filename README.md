@@ -42,9 +42,4 @@ To run the notebook, simply open it in Jupyter Notebook or JupyterLab and execut
 jupyter notebook Training_Basic_Neural_Network_training.ipynb
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Feel free to customize this template to better fit your project! If you need any more details or adjustments, just let me know. 😊
