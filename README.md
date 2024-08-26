@@ -40,6 +40,3 @@ To run the notebook, simply open it in Jupyter Notebook or JupyterLab and execut
 
 ```bash
 jupyter notebook Training_Basic_Neural_Network_training.ipynb
-```
-
-```
